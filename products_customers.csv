@@ -1,0 +1,101 @@
+customer_id;first_name;last_name;email;gender;age;city;state;product_id;product_name;brand;category;price
+1;Sarah;Thomas;mary47@gmail.com;Male;62;South Brian;New Hampshire;1;Side Pro;Sony;Clothing;1437.88
+2;Robert;Santiago;adkinsbilly@yahoo.com;Male;42;Port Kathleen;Vermont;2;News Pro;Dell;Clothing;386.46
+3;Katherine;Bailey;joshuamooney@yahoo.com;Female;45;Banksside;Minnesota;3;Conference Lite;Samsung;Clothing;1303.32
+4;Douglas;Sanders;laurie82@yahoo.com;Female;53;Hudsonton;Wyoming;4;Than Lite;Dell;Electronics;1079.43
+5;Megan;Ali;jacksonjason@gmail.com;Male;52;Richardfurt;Michigan;5;Statement Max;Lenovo;Electronics;388.11
+6;Danielle;Ayala;sheila49@yahoo.com;Male;22;Diazview;Florida;6;Live Lite;Sony;Clothing;1693.9
+7;Regina;Johnson;gina47@ward.com;Male;28;Jamesburgh;Virginia;7;Mr Lite;Dell;Electronics;498.09
+8;Katherine;House;alicia16@blake.com;Female;32;Richardmouth;South Carolina;8;Friend X;LG;Clothing;1555.49
+9;Crystal;Castro;cameronmoran@sanchez.info;Male;39;Port Staceyview;Ohio;9;Enter Pro;LG;Home & Kitchen;1884.17
+10;Rachel;Dawson;jennifer79@jones-conway.biz;Male;57;Port Joshuastad;Rhode Island;10;Out Max;Apple;Toys;768.87
+11;Christopher;Taylor;gilbertaaron@gmail.com;Female;40;Bryantmouth;Washington;11;Game Max;Lenovo;Toys;1856.26
+12;Rebecca;Caldwell;kristamata@evans.com;Female;33;Kevinmouth;South Dakota;12;Water X;Dell;Home & Kitchen;502.26
+13;Jessica;Mcbride;rachel70@stone-evans.org;Female;54;South Mark;Montana;13;Cost Pro;Lenovo;Electronics;1336.1
+14;Rodney;Stewart;bwhitaker@yahoo.com;Female;21;New Paul;Arkansas;14;Rich X;Sony;Clothing;20.79
+15;Robert;Ramirez;benjamin98@parker.org;Female;65;South Samuel;Hawaii;15;Run Max;Sony;Books;1457.9
+16;Kelsey;Patel;qdiaz@hotmail.com;Male;55;Whitebury;Washington;16;Structure X;Dell;Clothing;1609.59
+17;Rachel;Robinson;connor77@johnson.com;Female;21;Brownhaven;Georgia;17;Change Max;Sony;Home & Kitchen;1032.33
+18;Randall;Bush;sherry88@stewart.net;Female;48;Johnstad;Kentucky;18;Free X;Nike;Toys;1088.01
+19;Rebecca;Harris;chaynes@burns.com;Male;34;New Stephen;North Dakota;19;Together X;Samsung;Electronics;101.2
+20;Jason;Jackson;richardcarter@hotmail.com;Female;25;Tristanfurt;South Dakota;20;Pressure Lite;Lenovo;Home & Kitchen;1144.11
+21;Holly;Hinton;rlane@carr.com;Female;27;East Sherry;New York;21;Drug X;LG;Clothing;980.16
+22;Brooke;Taylor;jacksonlarry@yahoo.com;Female;33;East Amy;Florida;22;Dog Pro;Sony;Home & Kitchen;253.49
+23;Randy;Stone;jenniferbolton@gmail.com;Female;33;Lake Katherine;Montana;23;As X;Apple;Home & Kitchen;799.2
+24;Paul;Hardy;zbarnes@hotmail.com;Female;30;Popeville;Pennsylvania;24;Myself Pro;Samsung;Books;1338
+25;Sylvia;Thomas;myerslauren@yahoo.com;Male;22;Anthonyhaven;Michigan;25;Special Pro;Nike;Electronics;1905.03
+26;Bradley;Butler;maria94@jones.com;Female;36;West Zachary;Arizona;26;Hour Max;Nike;Electronics;70.54
+27;Derrick;Murray;hornedaniel@yahoo.com;Male;64;Breannastad;Louisiana;27;National X;Lenovo;Books;1900.24
+28;Amy;Cook;zcox@mendoza-garcia.com;Female;58;Lake Robert;New Jersey;28;Its X;LG;Home & Kitchen;13.4
+29;Corey;Martin;kharper@yahoo.com;Female;37;South James;North Dakota;29;Product Pro;Nike;Clothing;1193.5
+30;Amanda;Gonzalez;stevenfuller@johnson.com;Male;50;Rodriguezchester;Georgia;30;Game X;Adidas;Books;1981.17
+31;Max;Wolfe;grimesstephanie@gmail.com;Female;26;New Aaronshire;Washington;31;Play Max;Nike;Electronics;1748.71
+32;David;Perry;acollier@gmail.com;Female;54;Griffithtown;Iowa;32;Hope Pro;Sony;Home & Kitchen;484.18
+33;Mark;York;lauralawson@kelly.com;Male;54;Loveside;Missouri;33;Try Lite;Apple;Toys;441.86
+34;Kelly;Berger;michelle64@anderson.com;Male;58;Tiffanyberg;Nebraska;34;Mean X;Samsung;Toys;1995.09
+35;Kylie;Macias;ecampbell@hotmail.com;Male;44;Donnafurt;Colorado;35;Child Pro;Sony;Books;1244.29
+36;Katie;Mccall;rarmstrong@yahoo.com;Male;56;Jessicatown;Idaho;36;Decide Lite;Samsung;Toys;56.54
+37;Gregory;Gordon;fjones@kelly.com;Female;63;Lake Annaland;Mississippi;37;Even Lite;Dell;Books;34.72
+38;David;Hernandez;cmoreno@krause.com;Male;55;Lake Jill;Georgia;38;In Pro;Apple;Books;1781.85
+39;Candace;Burns;wualicia@burns-hodges.com;Male;45;Zacharyview;New York;39;Make Lite;Samsung;Books;1845.36
+40;Christopher;Barnett;hooverelizabeth@gmail.com;Female;22;Shanestad;Virginia;40;Strategy Max;LG;Clothing;38.65
+41;Erika;Roberts;angelica57@christian.info;Female;44;North Chelseachester;Maryland;41;Kitchen X;Samsung;Books;980.69
+42;Maria;Holmes;andrewhammond@murray-rivera.com;Female;57;West Shannon;Texas;42;Listen Pro;Apple;Home & Kitchen;1166.64
+43;Victor;Wallace;jessica39@williams-wallace.org;Female;52;Stephanieshire;Louisiana;43;Sing Lite;Nike;Home & Kitchen;1488.13
+44;Nicholas;Hernandez;icosta@yahoo.com;Male;65;South Thomas;Louisiana;44;Rise Max;Apple;Toys;1368.11
+45;Dawn;Rich;rlarson@burns.com;Male;63;Port Tina;Nebraska;45;Doctor X;Adidas;Electronics;1238.89
+46;Bonnie;Wells;jennifer43@hotmail.com;Female;56;Lake Nicole;Nevada;46;Character X;Lenovo;Electronics;19.16
+47;Brenda;Peterson;anthony20@schmidt-martin.org;Male;56;Glovertown;Nevada;47;Allow X;LG;Books;281.93
+48;Mike;Lewis;kyle17@wilson-lyons.com;Male;39;Hutchinsontown;Maine;48;Hear Pro;LG;Books;612.6
+49;Rhonda;Stein;ccline@morris.net;Female;20;Carlsonview;Louisiana;49;Food Max;Lenovo;Electronics;1028.02
+50;James;Garcia;kimberlymiller@barr.com;Male;56;Rogersbury;Mississippi;50;Manager Max;Adidas;Toys;1824.22
+51;Diana;Sanders;ucox@yahoo.com;Male;18;New John;Minnesota;34;Health Max;LG;Clothing;194.47
+52;Jason;Nguyen;henryrandy@hotmail.com;Female;30;West Brandonshire;Hawaii;9;Network Max;Sony;Clothing;1587.97
+53;Mary;Meyer;murphycraig@yahoo.com;Male;58;East Teresafurt;Maine;9;Policy Max;Adidas;Toys;1441.66
+54;Curtis;Davis;melaniedaniels@yahoo.com;Female;53;East Joshuaside;Nebraska;8;Thank Pro;Adidas;Toys;1122.38
+55;Michelle;Ryan;rwatts@rose-williams.com;Male;44;Gonzalezchester;Missouri;38;Skin X;Dell;Home & Kitchen;1622.58
+56;Amy;Hall;matthewcook@gmail.com;Female;40;West Elizabethton;South Carolina;7;Point X;LG;Books;715.43
+57;Rebecca;Wade;hernandezdeborah@hotmail.com;Female;35;Jonesport;Mississippi;35;With X;Nike;Books;1300.8
+58;Stacey;Schneider;wmaldonado@garcia.com;Male;61;Port Kathryn;New Mexico;11;Pressure Pro;Samsung;Home & Kitchen;1481.94
+59;Matthew;Leblanc;vanessa78@butler.com;Male;36;New Andrewfurt;Massachusetts;3;Policy X;Adidas;Clothing;1219.77
+60;Teresa;Meyer;hreese@scott-bennett.info;Female;18;Benjaminhaven;New Hampshire;40;Learn Lite;Dell;Clothing;996.05
+61;Mark;Roberts;bsingleton@hotmail.com;Female;20;South Stephaniebury;Oregon;41;Born X;Adidas;Toys;283.03
+62;Phillip;Ayala;ehurst@hotmail.com;Male;39;East Andrew;Pennsylvania;1;More Lite;Sony;Electronics;1997.65
+63;Katherine;Perez;sanderson@yahoo.com;Male;62;South Judy;Washington;9;Cultural Lite;Sony;Electronics;388.19
+64;Valerie;Rodriguez;williamsnicholas@richardson.net;Female;27;Kingside;Arkansas;46;Idea Max;Dell;Home & Kitchen;1859.62
+65;Autumn;Bird;chunter@hotmail.com;Male;38;Tuckershire;Idaho;31;Dream Lite;Adidas;Electronics;98.45
+66;Debra;Dawson;manuelcarter@gmail.com;Female;55;Morenofort;Florida;17;Since X;Lenovo;Toys;1246.49
+67;Michael;Taylor;frhodes@bowers-owen.biz;Female;56;Barryport;Texas;1;Career Pro;LG;Clothing;808.88
+68;Jennifer;Gomez;richard96@yahoo.com;Female;64;Danielhaven;New Mexico;31;Wind Max;LG;Books;1652.24
+69;Jack;Brooks;heatherowens@hotmail.com;Male;27;Port Zoe;Texas;43;Republican Pro;Adidas;Clothing;1316
+70;Morgan;Anderson;coltonnelson@hotmail.com;Female;28;West Kyleshire;Wyoming;46;Right Max;Samsung;Toys;1028.81
+71;Amber;Smith;lchandler@osborne.com;Female;37;Ramirezbury;Vermont;2;Know Lite;Sony;Books;929.78
+72;Nicole;Smith;jimenezchristopher@stokes-clark.com;Female;44;Holtstad;Rhode Island;25;Tv Max;Adidas;Toys;1726.06
+73;Tyler;Smith;kristingay@hotmail.com;Male;49;South Angela;South Carolina;3;Cover Lite;Sony;Electronics;1982.67
+74;Patricia;Contreras;johnsondavid@watts.net;Female;46;Lake Monicachester;Massachusetts;5;Any Lite;Adidas;Books;1030.41
+75;Logan;Valdez;amy38@cohen-knapp.com;Male;22;West Barbara;Michigan;41;Board Lite;Samsung;Clothing;892.51
+76;David;Brown;reillywilliam@perry.com;Female;38;North Jessicachester;West Virginia;12;Career X;Lenovo;Electronics;797.99
+77;Stephanie;Petty;watsondan@miller.com;Female;50;Kristinshire;West Virginia;5;Agency X;Nike;Electronics;1383.42
+78;John;Carson;tmorgan@gmail.com;Male;60;Johnburgh;Oregon;23;Guess Max;Sony;Home & Kitchen;1540.21
+79;Kyle;Edwards;brownreginald@gmail.com;Female;64;Lambertberg;Rhode Island;34;Others Pro;LG;Clothing;57.31
+80;Teresa;Smith;fischercassie@campbell-moody.org;Female;23;West Brittney;Kansas;12;Contain X;Nike;Clothing;1961.48
+81;Michael;Bryant;douglasrichmond@ayala.com;Female;20;Port Austin;Oregon;4;Boy Max;Adidas;Electronics;1148.7
+82;Jason;Archer;nhernandez@nunez.info;Female;22;Goldenfurt;Massachusetts;40;President Lite;Sony;Books;203.8
+83;Molly;Coleman;chelsea08@hotmail.com;Female;38;South Richardmouth;Idaho;28;Other X;Sony;Books;1133.35
+84;Anthony;Hunter;dray@gmail.com;Male;61;Margaretstad;Maine;19;Think Pro;LG;Electronics;176.04
+85;Donald;Banks;boydjacqueline@mccall.com;Female;20;New Lee;Massachusetts;41;Plan Pro;LG;Toys;692.62
+86;Megan;Bailey;wcase@price.com;Female;35;New Bryanport;Kansas;38;The Pro;Dell;Home & Kitchen;1377.38
+87;Amanda;Lewis;fullerpaul@yahoo.com;Female;58;New Shelbyborough;Louisiana;3;Fly X;Sony;Clothing;416.36
+88;Donna;Flores;woodsjohn@bates.com;Female;52;New Nancyside;Vermont;41;Think Lite;Apple;Home & Kitchen;1842.48
+89;Anthony;Thomas;dmcclain@yahoo.com;Female;63;Jamieview;Oregon;24;Live X;LG;Home & Kitchen;1310.56
+90;Danielle;Nguyen;phillipmoon@sharp-fuentes.com;Male;33;South Crystalfort;Virginia;36;Agent Lite;Lenovo;Books;1174.06
+91;Robert;Davis;justinaustin@yahoo.com;Male;54;Davisberg;Ohio;11;Especially X;Apple;Books;795.69
+92;Rita;Collins;shermandaniel@moore.com;Female;63;New Jamie;New Mexico;49;Radio Max;Adidas;Books;1018.54
+93;Steven;Williams;yodertiffany@kelly-santiago.com;Male;47;Cartermouth;Utah;15;Agent Max;Nike;Home & Kitchen;123.94
+94;Crystal;Ibarra;eatonerin@yahoo.com;Male;60;Morganshire;Arkansas;39;Defense Pro;Samsung;Home & Kitchen;1914.6
+95;Kristi;Brown;ntorres@green.com;Male;35;Emilyhaven;Alaska;9;Catch Pro;Apple;Toys;919.4
+96;Ebony;Cruz;masonjohn@yahoo.com;Male;36;New Judy;Wisconsin;29;Issue Lite;Adidas;Toys;165.16
+97;Amy;Sanchez;simsadam@chambers-hamilton.com;Female;19;Justinton;Illinois;28;Treat Lite;Sony;Books;474.12
+98;James;Shannon;hmarshall@oneill-yu.com;Female;36;Alishamouth;Kentucky;32;Always X;Apple;Home & Kitchen;874.46
+99;Jennifer;Martinez;pattyallen@wall-frazier.info;Female;57;Lake Laurenshire;Arizona;50;Should Pro;Dell;Clothing;1759.98
+100;Melanie;Osborne;jesse87@haas.org;Female;59;Katieton;Tennessee;42;Begin Lite;Samsung;Toys;1713.05
