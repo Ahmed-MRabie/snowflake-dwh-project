@@ -50,6 +50,8 @@ The final goal is to transform this raw data into a well-structured analytical m
   - `DIM_PRODUCT` (with surrogate key and SCD logic)
   - `DIM_CUSTOMER` (with full profile and tracking)
   - `DIM_CATEGORY` (linked to `DIM_PRODUCT`)
+ 
+
 
 - Historical tracking ensures we capture all dimension changes over time
 
@@ -77,4 +79,4 @@ This simulates a real-world enterprise scenario with change tracking and data in
 ## 🧑‍💻 Author
 
 **Ahmed** – Data Engineering Enthusiast  
-[LinkedIn Profile](https://www.linkedin.com/) *(Replace with your link)*
+[LinkedIn Profile](https://www.linkedin.com/)
