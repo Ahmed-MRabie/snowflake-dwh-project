@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates how to build an end-to-end **Data Warehouse** using **Snowflake**, starting from raw CSV files and ending with a clean **Snowflake Schema (Snowflake-style DWH)** that includes Slowly Changing Dimensions (SCD Type 2) and surrogate keys.
+This project demonstrates **complete Data Warehouse on Snowflake with a full end-to-end ETL/ELT pipeline**, using real-world modeling concepts like **Snowflake Schema** and **SCD Type 2** for tracking historical changes
 
 ### 🎯 Business Scenario:
 We simulate a retail sales scenario, collecting data from:
