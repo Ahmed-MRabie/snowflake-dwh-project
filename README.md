@@ -53,6 +53,8 @@ The final goal is to transform this raw data into a well-structured analytical m
   - `DIM_CUSTOMER` (with full profile and tracking)
   - `DIM_CATEGORY` (linked to `DIM_PRODUCT`)
 
+![Schema Diagram](schema_diagram.png)
+
 - Historical tracking ensures we capture all dimension changes over time
 
 ---
