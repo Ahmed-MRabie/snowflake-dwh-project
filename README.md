@@ -21,8 +21,6 @@ The final goal is to transform this raw data into a well-structured analytical m
 | Snowflake           | Data warehouse + staging + transformation   |
 | SQL                 | Data modeling, cleansing, and ETL/ELT logic |
 | Streams & Tasks     | Automating Slowly Changing Dimensions (SCD2)|
-| Python (Optional)   | For generating realistic test data           |
-| GitHub              | Version control and project hosting          |
 
 ---
 
@@ -52,8 +50,6 @@ The final goal is to transform this raw data into a well-structured analytical m
   - `DIM_PRODUCT` (with surrogate key and SCD logic)
   - `DIM_CUSTOMER` (with full profile and tracking)
   - `DIM_CATEGORY` (linked to `DIM_PRODUCT`)
-
-![Schema Diagram](schema_diagram.png)
 
 - Historical tracking ensures we capture all dimension changes over time
 
