@@ -51,7 +51,7 @@ The final goal is to transform this raw data into a well-structured analytical m
   - `DIM_CUSTOMER` (with full profile and tracking)
   - `DIM_CATEGORY` (linked to `DIM_PRODUCT`)
  
-  ![Data Flow Diagram](schema_diagram.png)
+  ![Data Flow Diagram](https://github.com/Ahmed-MRabie/snowflake-dwh-project/blob/main/schema_diagram.PNG)
 
 - Historical tracking ensures we capture all dimension changes over time
 
